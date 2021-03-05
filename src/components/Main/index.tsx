@@ -1,8 +1,12 @@
 import * as S from './styles'
 
-const Main = () => (
+type MainProps = {
+  title?: string
+}
+
+const Main = ({ title = `React Boilerplate` }: MainProps) => (
   <S.Wrapper>
-    <h1>React Boilerplate</h1>
+    <h1>{title}</h1>
   </S.Wrapper>
 )
 
