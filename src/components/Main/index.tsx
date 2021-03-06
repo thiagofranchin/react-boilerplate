@@ -4,7 +4,7 @@ type MainProps = {
   title?: string
 }
 
-const Main = ({ title = `React Boilerplate` }: MainProps) => (
+const Main = ({ title = `React Boilerplate test` }: MainProps) => (
   <S.Wrapper>
     <h1>{title}</h1>
   </S.Wrapper>

@@ -22,7 +22,7 @@ exports[`<Main /> should render the heading 1`] = `
   class="c0"
 >
   <h1>
-    React Boilerplate
+    React Boilerplate test
   </h1>
 </main>
 `
