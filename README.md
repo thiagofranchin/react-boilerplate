@@ -1,6 +1,6 @@
 ![React Boilerplate](https://repository-images.githubusercontent.com/344539899/eb092880-7f96-11eb-882f-56ea0dd51e21)
 
-![ci](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
+![ci](https://github.com/thiagofranchin/react-boilerplate/workflows/ci/badge.svg)
 
 <h1>🛰 React Boilerplate</h1>
 
