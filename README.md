@@ -24,7 +24,13 @@ This project uses:
 
 ## Getting Started
 
-First, run the development server:
+In the first execution of the project, run the yarn build, as the next-pwa package uses the webpack and needs to be built.
+
+```bash
+yarn build
+```
+
+Run the development server:
 
 ```bash
 yarn dev
